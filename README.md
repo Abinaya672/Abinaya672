@@ -25,6 +25,8 @@
 
 ###
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abinaya672&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 <img src="https://raw.githubusercontent.com/Abinaya672/Abinaya672/output/snake.svg" alt="Snake animation" />
